@@ -9,4 +9,5 @@ To get started:
 - Open the GitHub setup walkthrough: `teachme ~/software-product-sprint/walkthroughs/week-0-setup/github-setup-walkthrough.md`
   - If the tutorial panel does not open or display the walkthrough contents, try refreshing the page.
 
+chicken noodle soup with a soda on the side
 Then follow the on-screen instructions to set up your repo.
